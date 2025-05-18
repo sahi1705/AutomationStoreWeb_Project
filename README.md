@@ -23,7 +23,7 @@ To perform Functional and Automation as well as  Usability Testing on the Automa
 <img alt="Edge" src="https://img.shields.io/badge/Edge-5C2D91?logo=microsoft-edge&logoColor=white&style=flat" />
 <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF9500?logo=firefox-browser&logoColor=white&style=flat" />
 <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat" />
-<img alt="Cypress" src="" />
+<img alt="Cypress" src="https://github.com/user-attachments/assets/bebb5d6b-9232-4ee0-b095-cbf69654941f" />
 
 ## Directory Structure
 AutomationStoreProject/
@@ -110,7 +110,6 @@ To design and implement an automated testing framework using Cypress that valida
 
 ![1](https://github.com/user-attachments/assets/d5e12611-7576-4187-9bc6-2700abd49f09)
 ![2](https://github.com/user-attachments/assets/2a5c012d-512e-4621-bcd0-7ddeb0107a6b)
-![3](https://github.com/user-attachments/assets/58b1f247-1eec-4e0a-b56c-d780a3a3b037)
 ![4](https://github.com/user-attachments/assets/5cd5b7bb-14f3-423c-9271-d420ecf0a4a5)
 
 
