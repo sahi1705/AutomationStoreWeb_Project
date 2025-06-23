@@ -71,14 +71,15 @@ To design and implement an automated testing framework using Cypress that valida
 
  cypress/
 ├── e2e/
-│   └── asProject.cy.js            // Main test suite
+│   └── TestAsWebApp.cy.js            // Main test suite
 ├── support/
-│   └── asProject/
+│   └── PomPages/
 │       ├── LoginPage.js           // Handles login actions
 │       ├── SearchPage.js          // Handles search and result validation
 │       ├── CartPage.js            // Add to cart, view, and checkout
 │       ├── WishlistPage.js        // Wishlist actions
 │       └── ContactPage.js         // Footer and Contact Us form
+
 
 
 
