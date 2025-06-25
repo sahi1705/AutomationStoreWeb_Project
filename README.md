@@ -1,5 +1,7 @@
 # AutomationStoreWeb_Project
 
+## My Resume :    [resume](https://1drv.ms/w/c/b125768f2c10903c/EROM5RHTvt5HpC4BEsV_vHEBFUTBc9BT30bHRhGKzNUyEA?e=jcFR3W)
+
 ![AS_logo](https://github.com/user-attachments/assets/d73fda4d-d7af-4602-8126-c95d81b54e53)
 
 
